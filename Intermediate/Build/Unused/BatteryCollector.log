@@ -1,0 +1,22 @@
+﻿  Cleaning BatteryCollectorEditor Binaries...
+  Compiling game modules for hot reload
+  Compiling game modules for hot reload
+  Performing full C++ include scan (no include cache file)
+  Parsing headers for BatteryCollectorEditor
+    Running UnrealHeaderTool "E:\Unreal Projects\BatteryCollector\BatteryCollector.uproject" "E:\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\BatteryCollectorEditor\Development\BatteryCollectorEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for BatteryCollectorEditor in 5.6017777 seconds
+  Performing 10 actions (4 in parallel)
+  [3/10] Resource PCLaunch.rc
+  [2/10] Resource ModuleVersionResource.rc.inl
+  SharedPCH.Engine.cpp
+  BatteryCollector.cpp
+  Pickup.cpp
+  BatteryCollectorGameMode.cpp
+  BatteryCollectorCharacter.cpp
+  BatteryCollector.generated.cpp
+  [9/10] Link UE4Editor-BatteryCollector-416.dll
+  [10/10] Link UE4Editor-BatteryCollector-416.lib
+     Creating library E:\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-416.lib and object E:\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-416.exp
+     Creating library E:\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-416.suppressed.lib and object E:\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-416.suppressed.exp
+  Deploying BatteryCollectorEditor Win64 Development...
+  Total build time: 113.39 seconds (Local executor: 30.81 seconds)
